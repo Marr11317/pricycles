@@ -1,4 +1,5 @@
 languageCode = 'en-us'
 title = 'Pricycle'
 theme = 'ananke'
-baseURL = 'https://marr11317.github.io/pricyles/'
+baseURL = 'https://marr11317.github.io/pricycles/'
+Paginate = 10
